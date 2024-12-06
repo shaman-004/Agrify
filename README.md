@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AgriApp
 A interactive app which helps farmer to monitor disease in a arecanut
 =======
